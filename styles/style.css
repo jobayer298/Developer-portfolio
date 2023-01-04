@@ -1,0 +1,35 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+.container{
+    width: 1170px;
+    margin: auto;
+}
+
+/* nav design */
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    margin: 40px 0;
+}
+.nav-header{
+    font-weight: 800;
+    font-size: 45px;
+}
+nav ul{
+    display: flex;
+}
+nav ul li{
+    list-style: none;
+    margin-left: 50px;
+}
+nav ul li a{
+    text-decoration: none;
+}
+.primary-color{
+    color: #FD6E0A;
+}
