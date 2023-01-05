@@ -187,21 +187,21 @@ section {
 
 .summary-title {
     font-weight: 700;
-    font-size: 25px;
+    font-size: 23px;
     margin-bottom: 10px;
-    color: #474747;
+    color: #474747bf;
 }
 
 .summary-sub-title {
     font-weight: 600;
-    font-size: 16px;
-    color: #474747;
+    font-size: 15px;
+    color: #474747a8;
     margin-bottom: 10px;
 }
 
 .summary-desc {
-    font-size: 15px;
-    color: #474747;
+    font-size: 14px;
+    color: #474747ba;
     margin-bottom: 20px;
     padding-right: 123px;
 }
